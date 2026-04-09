@@ -5,7 +5,7 @@
 #
 
 app = "vernissage-server"
-primary_region = "waw"
+primary_region = "ams"
 
 [http_service]
   internal_port = 8080
